@@ -53,7 +53,7 @@ h5 {
 }
 
 .heading1 p{
-  text-align:left;
+  margin: left;
   font-family: "Comic Sans MS", Garamond, 'Comic Sans MS';
   font-weight: bold;
   padding-left: 12%;
@@ -61,7 +61,7 @@ h5 {
 }
 
 .text {
-  text-align: justify;
+  margin: justify;
    font-family: "Comic Sans MS", Garamond, 'Comic Sans MS';
     padding-left: 5%;
      padding-right: 5%;
